@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ten%C3%B3rio-bezerra-de-santana-128a9a150/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/tenoriobn)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=tenoriobn&show_icons=true&theme=github_dark&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=tenoriobn&theme=github_dark&show_icons=true)
 
 ## Tecnologias que uso no meu dia
 
