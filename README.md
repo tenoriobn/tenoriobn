@@ -88,3 +88,4 @@ Quando não estou codando, estou produzindo musica, praticando exercícios, dand
   <img alt="languages" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenoriobn&layout=compact&hide_border=true&theme=material-palenight&locale=pt-br" />
 </p>
 
+![snake gif](https://github.com/tenoriobn/tenoriobn/blob/output/github-contribution-grid-snake.svg)
