@@ -81,8 +81,8 @@ Quando não estou codando, estou produzindo musica, praticando exercícios, dand
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img width="48%" height="190" src="https://github-readme-stats.vercel.app/api?username=tenoriobn&show_icons=true&hide_border=true&theme=material-palenight&locale=pt-br" />
-  <img width="48%" height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=tenoriobn&hide_border=true&theme=material-palenight&locale=pt-br" />
+  <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=tenoriobn&show_icons=true&hide_border=true&theme=material-palenight&locale=pt-br" />
+  <img width="48%" height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=tenoriobn&hide_border=true&theme=material-palenight&locale=pt-br" />
 </p>
 <p align="center">
   <img alt="languages" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenoriobn&layout=compact&hide_border=true&theme=material-palenight&locale=pt-br" />
