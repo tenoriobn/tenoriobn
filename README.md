@@ -5,18 +5,20 @@
 <br>
 
 * 🎓 Estudante de Bacharelado em Tecnologia da Informação na [Universidade Virtual do Estado de São Paulo - UNIVESP](https://univesp.br/).
+  
+* 💻 Desenvolvedor Front-End com experiência prática em JavaScript/TypeScript, React.js, Vue.js, Next.js.
 
-* 📖 Explorando Front-End e Back-End na plataforma da [Alura](https://www.alura.com.br/).
+* 🔧 Desenvolvedor Full Stack em ascensão, com foco em Node.js, Sequelize ORM, e Express, criando soluções inovadoras e eficientes para startups e grandes empresas.
 
-* 🧑🏻‍💻 Apaixonado por tecnologia e pela transformação através da programação.
+* 📚 Em constante aprendizado, explorando novas tecnologias e melhores práticas para otimizar a performance e a experiência do usuário na plataforma da [Alura](https://www.alura.com.br/).
 
-* 💡 Em busca contínua de novos conhecimentos, pronto para colaborar e criar ideias inovadoras..
+* 🚀 Experiência no desenvolvimento de plataformas e otimização de processos, com foco em eficiência, usabilidade e inovação, ajudando empresas a alcançar resultados concretos.
 
-* 💻 Aprendendo [React](https://reactjs.org/) e [Node.js](https://nodejs.org/en).
+* 🤝 Colaborador ativo em equipes multidisciplinares, trabalhando na tradução de requisitos técnicos em soluções práticas e escaláveis, sempre comprometido com a entrega de qualidade.
 
 <br>
 
-Quando não estou codando, estou produzindo musica, praticando exercícios, dando show no futebol ou torcendo pelo meu amado São Paulo. Saiba mais sobre mim e sinta-se à vontade para se conectar comigo aqui:
+Quando não estou programando, estou produzindo música, praticando esportes ou torcendo pelo São Paulo. Se você quiser saber mais sobre mim, ou simplesmente trocar ideias, fique à vontade para se conectar:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/bruno-tenorio/">
@@ -43,17 +45,31 @@ Quando não estou codando, estou produzindo musica, praticando exercícios, dand
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧩 Bibliotecas & Frameworks
 
+![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### 🧑🏻‍💻 Ferramentas e Plataformas
 
@@ -62,6 +78,8 @@ Quando não estou codando, estou produzindo musica, praticando exercícios, dand
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
