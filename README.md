@@ -21,10 +21,10 @@
 Quando não estou programando, estou produzindo música, praticando esportes ou torcendo pelo São Paulo. Se você quiser saber mais sobre mim, ou simplesmente trocar ideias, fique à vontade para se conectar:
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/bruno-tenorio/">
+	<a href="https://www.linkedin.com/in/bruno-tenorio/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  <a href="mailto:tenoriobn@gmail.com">
+  	<a href="mailto:tenoriobn@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
