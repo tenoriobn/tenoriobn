@@ -2,10 +2,6 @@
 
 <br>
 
-Seja bem-vindo ao meu perfil!
-
-<br>
-
 <details>
   <summary>👤 Sobre</summary>
 
