@@ -1,40 +1,51 @@
 ## 👋 Bem-vindo ao Universo do Bruno Tenório!
 
-<a href="https://asmitbm.github.io/">
-  <img src="https://uploaddeimagens.com.br/images/004/667/554/full/9.jpg?1700259110" width="100%" alt="Banner">
-</a>
+<br>
+
+Seja bem-vindo ao meu perfil!
 
 <br>
 
-🎓 Estudante de Bacharelado em Tecnologia da Informação na [UNIVESP](https://univesp.br/).
+<details>
+  <summary>👤 Sobre</summary>
 
-💻 Desenvolvedor Front-End com experiência prática em **JavaScript/TypeScript**, **React.js**, **Vue.js** e **Next.js**.
-
-🔧 Desenvolvedor Full Stack em ascensão, com foco em **Node.js**, **Sequelize ORM** e **Express**, criando soluções inovadoras e eficientes para startups e grandes empresas.
-
-📚 Em constante aprendizado, explorando novas tecnologias e melhores práticas para otimizar a performance e a experiência do usuário na [Alura](https://www.alura.com.br/).
-
-🚀 Experiência no desenvolvimento de plataformas e otimização de processos, com foco em eficiência, usabilidade e inovação, ajudando empresas a alcançar resultados concretos.
-
-🤝 Colaborador ativo em equipes multidisciplinares, traduzindo requisitos técnicos em soluções práticas e escaláveis, sempre comprometido com a entrega de qualidade.
-
-<br>
-
-Quando não estou programando, estou produzindo música, praticando esportes ou torcendo pelo **São Paulo**.  
-Se quiser saber mais sobre mim ou simplesmente trocar ideias, fique à vontade para se conectar:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bruno-tenorio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://asmitbm.github.io/">
+    <img src="https://uploaddeimagens.com.br/images/004/667/554/full/9.jpg?1700259110" width="100%" alt="Banner">
   </a>
-  <a href="mailto:tenoriobn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+
+  <br>
+  
+  🎓 Estudante de Bacharelado em Tecnologia da Informação na [UNIVESP](https://univesp.br/).
+  
+  💻 Desenvolvedor Front-End com experiência prática em **JavaScript/TypeScript**, **React.js**, **Vue.js** e **Next.js**.
+  
+  🔧 Desenvolvedor Full Stack em ascensão, com foco em **Node.js**, **Sequelize ORM** e **Express**, criando soluções inovadoras e eficientes para startups e grandes empresas.
+  
+  📚 Em constante aprendizado, explorando novas tecnologias e melhores práticas para otimizar a performance e a experiência do usuário na [Alura](https://www.alura.com.br/).
+  
+  🚀 Experiência no desenvolvimento de plataformas e otimização de processos, com foco em eficiência, usabilidade e inovação, ajudando empresas a alcançar resultados concretos.
+  
+  🤝 Colaborador ativo em equipes multidisciplinares, traduzindo requisitos técnicos em soluções práticas e escaláveis, sempre comprometido com a entrega de qualidade.
+  
+  <br>
+  
+  Quando não estou programando, estou produzindo música, praticando esportes ou torcendo pelo **São Paulo**.  
+  Se quiser saber mais sobre mim ou simplesmente trocar ideias, fique à vontade para se conectar:
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/bruno-tenorio/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:tenoriobn@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
+</details>
 
 ---
 
-## 📚 Pilha Tecnológica
+<details>
+  <summary>📚 Pilha Tecnológica</summary>
 
 ### 🚀 Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -96,11 +107,20 @@ Se quiser saber mais sobre mim ou simplesmente trocar ideias, fique à vontade p
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+</details>
+
 ---
 
-## 📈 Estatísticas do GitHub
+<details>
+  <summary>📈 Estatísticas do GitHub</summary>
 
 <p align="center">
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api?username=tenoriobn&show_icons=true&hide_border=true&theme=material-palenight&locale=pt-br" alt="GitHub Stats">
   <img width="48%" height="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=tenoriobn&hide_border=true&theme=material-palenight&locale=pt-br" alt="GitHub Streak">
 </p>
+
+<p align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenoriobn&layout=compact&hide_border=true&theme=material-palenight&locale=pt-br"  alt="GitHub Languages" />
+</p>
+
+</details>
