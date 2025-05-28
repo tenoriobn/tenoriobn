@@ -44,6 +44,33 @@
 ---
 
 <details>
+  <summary>🚀 Projetos em Destaque</summary>
+  <br>
+  
+  Uma seleção dos meus principais projetos, com foco em desenvolvimento Front-End, Full Stack e soluções inovadoras.
+  
+  ## 🖥️ Front-End
+  
+  - **[Landing Page Marketing Digital](https://github.com/tenoriobn/eduardo-marketing-digital)**  
+  Descrição: Landing Page Marketing Digital com Next.js 15 e TypeScript, integrada a DatoCMS para gestão dinâmica de conteúdo.
+  
+  - **[REST Countries API](https://github.com/tenoriobn/restcountriesapi)**  
+  Descrição: Sistema de busca e visualização de países, com suporte a temas claro e escuro, desenvolvida em React e TypeScript, integrada a uma API REST.
+  
+  ## 🔧 Full Stack
+  
+  - **[KondoRu](https://github.com/tenoriobn/kondoru)**  
+  Descrição: Plataforma full-stack que visa modernizar a experiência de busca e gestão de imóveis residenciais e comerciais.
+  
+  ## 📦 Outros
+  
+  - **[Tip calculator app](https://github.com/tenoriobn/projeto-19)**  
+  Descrição: Aplicativo de calculadora de gorjetas desenvolvia com tailwind e javascript.
+</details>
+
+---
+
+<details>
   <summary>📚 Pilha Tecnológica</summary>
   
   ### 🚀 Linguagens
