@@ -12,24 +12,25 @@
   </a>
 
   <br>
-  
+  <br>
+
   🎓 Estudante de Bacharelado em Tecnologia da Informação na [UNIVESP](https://univesp.br/).
-  
-  💻 Desenvolvedor Front-End com experiência prática em **JavaScript/TypeScript**, **React.js**, **Vue.js** e **Next.js**.
-  
-  🔧 Desenvolvedor Full Stack em ascensão, com foco em **Node.js**, **Sequelize ORM** e **Express**, criando soluções inovadoras e eficientes para startups e grandes empresas.
-  
-  📚 Em constante aprendizado, explorando novas tecnologias e melhores práticas para otimizar a performance e a experiência do usuário na [Alura](https://www.alura.com.br/).
-  
-  🚀 Experiência no desenvolvimento de plataformas e otimização de processos, com foco em eficiência, usabilidade e inovação, ajudando empresas a alcançar resultados concretos.
-  
-  🤝 Colaborador ativo em equipes multidisciplinares, traduzindo requisitos técnicos em soluções práticas e escaláveis, sempre comprometido com a entrega de qualidade.
+
+  💻 Desenvolvedor Front-End com foco em **JavaScript/TypeScript**, atuando com **React.js**, **Vue.js** e **Next.js**, criando interfaces modernas, responsivas e performáticas.
+
+  🔧 Evoluindo como Desenvolvedor Full Stack, com experiência em **Node.js**, **Sequelize ORM** e **Express**, contribuindo para soluções eficientes em diferentes contextos.
+
+  📚 Sempre em aprendizado contínuo, aprimorando habilidades e explorando melhores práticas, especialmente em performance, acessibilidade e experiência do usuário, com apoio da [Alura](https://www.alura.com.br/).
+
+  🚀 Experiência no desenvolvimento e otimização de plataformas digitais, priorizando eficiência, usabilidade e inovação, entregando valor real para empresas.
+
+  🤝 Atuação colaborativa em equipes multidisciplinares, transformando requisitos técnicos em soluções escaláveis e de qualidade.
+
+  Fora do código, gosto de correr, praticar esportes e, claro, torcer eternamente pelo **São Paulo**.  
+  Gosta de tecnologia ou quer trocar uma ideia? Fique à vontade para se conectar:
   
   <br>
-  
-  Quando não estou programando, estou produzindo música, praticando esportes ou torcendo pelo **São Paulo**.  
-  Se quiser saber mais sobre mim ou simplesmente trocar ideias, fique à vontade para se conectar:
-  
+
   <p align="center">
     <a href="https://www.linkedin.com/in/bruno-tenorio/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
