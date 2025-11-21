@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f6feb&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+o+Bruno+Tenório;Desenvolvedor+Front-end+e+Full+Stack;Criando+interfaces+modernas+e+performáticas;Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f6feb&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+o+Bruno+Tenório;Transformando+código+em+boas+experiências+✨;Front-end+%26+Full+Stack+Developer;Construindo+interfaces+fluidas+e+modernas+💡)](https://git.io/typing-svg)
 
 ---
 
