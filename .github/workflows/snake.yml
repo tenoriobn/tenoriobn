@@ -1,26 +1,24 @@
-name: Generate Snake Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:      
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
+      - name: Generate Pacman
+        uses: Platane/pacman@v1
         with:
           github_user_name: tenoriobn
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
 
-      - name: Upload to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
