@@ -1,49 +1,83 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1f6feb&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá!+Eu+sou+o+Bruno+Tenório;Transformando+código+em+boas+experiências+✨;Front-end+%26+Full+Stack+Developer;Construindo+interfaces+fluidas+e+modernas+💡)](https://git.io/typing-svg)
+# Olá, sou Bruno Tenório 👋
+
+**Desenvolvedor Front-End** com foco em **React.js · Next.js · TypeScript**
+
+Construo interfaces responsivas, performáticas e acessíveis — do protótipo no Figma ao deploy em produção com CI/CD. Tenho experiência em consultoria e produto, com vivência em testes automatizados, consumo de APIs RESTful e GraphQL e metodologias ágeis.
+
+📍 Itaquaquecetuba, SP — disponível para remoto, híbrido ou presencial em São Paulo  
+📬 brunotenorio.tech@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-tenorio) · [Portfólio](https://brunotenorio.vercel.app)
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🛠️ Stack principal
 
-Sou Desenvolvedor **Front-end** com foco em **JavaScript/TypeScript**, atuando com **React, Next.js, Vue e Nuxt**.  
-Também evoluo no **desenvolvimento Full Stack**, com experiência em **Node.js, Express, Sequelize e PostgreSQL**.
+**Front-End**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-Atualmente trabalho em projetos que unem **performance**, **UX**, **componentização moderna** e **boas práticas**, sempre buscando entregar interfaces inteligentes, escaláveis e com atenção a detalhes.
+**Testes & Qualidade**  
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
-🎓 Formado em **Bacharelado em Tecnologia da Informação – UNIVESP**  
-📚 Em constante aprendizado e aprimoramento  
-⚽ Torcedor fiel do **São Paulo** e adepto a uma rotina de corrida e treinos leves
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-📬 Conecte-se comigo:  
-<p align="left">
-  <a href="https://www.linkedin.com/in/bruno-tenorio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:brunotenorio.tech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://brunotenorio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+**Back-End (apoio)**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## 🛠️ Techs que uso no dia a dia
+## 🚀 Projetos em destaque
 
+### [Landing Page Marketing Digital](https://github.com/tenoriobn/eduardo-marketing-digital)
+Landing page moderna com gestão de conteúdo via CMS headless.  
+`Next.js 15` `TypeScript` `DatoCMS` `GraphQL` `CI/CD` `Framer Motion` `SEO`  
+→ Lighthouse 90+ · SSG com revalidação em tempo real · Deploy automático via GitHub Actions  
+🔗 [Demo ao vivo](https://eduardo-marketing-digital.vercel.app)
 
-### Front-end  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components)
+---
 
-### Back-end  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### [Personal Finance APP](https://github.com/tenoriobn/personal-finance-app)
+Aplicação full-stack de controle financeiro pessoal com testes completos e CI/CD.  
+`Nuxt.js` `Vue.js` `TypeScript` `Hono` `Prisma` `MongoDB` `Vitest` `Cypress`  
+→ Testes unitários, de integração e E2E · Pipeline CI/CD com validação por Pull Request  
+🔗 [Demo ao vivo](https://app-personal-finance.vercel.app/login)
+
+---
+
+### [Explorador de Países](https://github.com/tenoriobn/explorador-de-paises)
+Aplicação React com consumo de API, gerenciamento de estado e testes automatizados.  
+`React.js` `TypeScript` `React Query` `Recoil` `Styled-Components` `Vitest` `RTL`  
+→ Busca e filtros por região · Alternância de tema · Skeleton loaders · Framer Motion  
+🔗 [Demo ao vivo](https://restcountriesapi-gules.vercel.app)
+
+---
+
+## 💼 Experiência
+
+**BeCoders Consulting** — Desenvolvedor Front-End *(Ago/2024 – Ago/2025)*  
+Projetos variados para clientes da consultoria com React.js, Next.js e Vue.js, integrações a back-ends em Node.js, Java e PHP, foco em performance, acessibilidade e CI/CD.
+
+**Imóvel Guide** — Desenvolvedor Front-End *(Mar/2024 – Ago/2024)*  
+Plataforma imobiliária com Vue.js, Bootstrap e Laravel. Desenvolvimento de sistema de propostas e sistema de assinatura de e-mails para captação de leads.
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Tecnologia da Informação** — Univesp *(2022 – 2025)*
+
+---
+
+*Aberto a novas oportunidades como Desenvolvedor Front-End Júnior · Remoto · Híbrido · Presencial em SP*
