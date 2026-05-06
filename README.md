@@ -40,7 +40,17 @@ Construo interfaces responsivas, performáticas e acessíveis — do protótipo 
 
 ## 🚀 Projetos em destaque
 
+### [PSM Advocacia](https://github.com/tenoriobn/psm-advocacia)
+
+Landing page institucional de alta conversão com arquitetura moderna, foco em SEO e páginas complementares para ranqueamento orgânico.  
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Swiper` `SVGR` `CI/CD` `SEO`  
+→ 6 páginas estratégicas para tráfego orgânico · Preview Deploy via Pull Request · Alta performance · Conversão via WhatsApp  
+🔗 [Demo ao vivo](https://psmadvocacia.vercel.app)
+
+---
+
 ### [Landing Page Marketing Digital](https://github.com/tenoriobn/eduardo-marketing-digital)
+
 Landing page moderna com gestão de conteúdo via CMS headless.  
 `Next.js 15` `TypeScript` `DatoCMS` `GraphQL` `CI/CD` `Framer Motion` `SEO`  
 → Lighthouse 90+ · SSG com revalidação em tempo real · Deploy automático via GitHub Actions  
@@ -49,6 +59,7 @@ Landing page moderna com gestão de conteúdo via CMS headless.
 ---
 
 ### [Personal Finance APP](https://github.com/tenoriobn/personal-finance-app)
+
 Aplicação full-stack de controle financeiro pessoal com testes completos e CI/CD.  
 `Nuxt.js` `Vue.js` `TypeScript` `Hono` `Prisma` `MongoDB` `Vitest` `Cypress`  
 → Testes unitários, de integração e E2E · Pipeline CI/CD com validação por Pull Request  
@@ -57,6 +68,7 @@ Aplicação full-stack de controle financeiro pessoal com testes completos e CI/
 ---
 
 ### [Explorador de Países](https://github.com/tenoriobn/explorador-de-paises)
+
 Aplicação React com consumo de API, gerenciamento de estado e testes automatizados.  
 `React.js` `TypeScript` `React Query` `Recoil` `Styled-Components` `Vitest` `RTL`  
 → Busca e filtros por região · Alternância de tema · Skeleton loaders · Framer Motion  
@@ -66,18 +78,18 @@ Aplicação React com consumo de API, gerenciamento de estado e testes automatiz
 
 ## 💼 Experiência
 
-**BeCoders Consulting** — Desenvolvedor Front-End *(Ago/2024 – Ago/2025)*  
+**BeCoders Consulting** — Desenvolvedor Front-End _(Ago/2024 – Ago/2025)_  
 Projetos variados para clientes da consultoria com React.js, Next.js e Vue.js, integrações a back-ends em Node.js, Java e PHP, foco em performance, acessibilidade e CI/CD.
 
-**Imóvel Guide** — Desenvolvedor Front-End *(Mar/2024 – Ago/2024)*  
+**Imóvel Guide** — Desenvolvedor Front-End _(Mar/2024 – Ago/2024)_  
 Plataforma imobiliária com Vue.js, Bootstrap e Laravel. Desenvolvimento de sistema de propostas e sistema de assinatura de e-mails para captação de leads.
 
 ---
 
 ## 🎓 Formação
 
-**Bacharelado em Tecnologia da Informação** — Univesp *(2022 – 2025)*
+**Bacharelado em Tecnologia da Informação** — Univesp _(2022 – 2025)_
 
 ---
 
-*Aberto a novas oportunidades como Desenvolvedor Front-End Júnior · Remoto · Híbrido · Presencial em SP*
+_Aberto a novas oportunidades como Desenvolvedor Front-End Júnior · Remoto · Híbrido · Presencial em SP_
