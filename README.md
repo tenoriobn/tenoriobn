@@ -40,6 +40,15 @@ Construo interfaces responsivas, performáticas e acessíveis — do protótipo 
 
 ## 🚀 Projetos em destaque
 
+### [MindFlow](https://github.com/tenoriobn/mindflow)
+
+Landing page moderna focada em clareza mental, produtividade consciente e equilíbrio emocional, combinando design minimalista, motion design e uma experiência altamente responsiva.
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `GSAP` `ScrollTrigger` `Video.js` `SVGR` `SEO`
+→ Animações avançadas com GSAP · Layout full-width responsivo · Motion design focado em UX · Alta performance e acessibilidade
+🔗 [Demo ao vivo](https://mindflowdigital.vercel.app/)
+
+---
+
 ### [PSM Advocacia](https://github.com/tenoriobn/psm-advocacia)
 
 Landing page institucional de alta conversão com arquitetura moderna, foco em SEO e páginas complementares para ranqueamento orgânico.  
