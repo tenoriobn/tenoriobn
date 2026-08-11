@@ -76,7 +76,7 @@ Aplicação full-stack de controle financeiro pessoal com testes completos e CI/
 
 ---
 
-### [Explorador de Países](https://github.com/tenoriobn/explorador-de-paises)
+### [Explorador de Países](https://github.com/tenoriobn/restcountriesapi)
 
 Aplicação React com consumo de API, gerenciamento de estado e testes automatizados.  
 `React.js` `TypeScript` `React Query` `Recoil` `Styled-Components` `Vitest` `RTL`  
